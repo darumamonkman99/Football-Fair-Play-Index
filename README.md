@@ -1,12 +1,4 @@
-
-Football Fair Play Index (FFPI)
-An Open Source Initiative
-Objective
-Football has developed sophisticated metrics for measuring performance, including expected goals (xG), passing networks, pressing intensity, and possession value.
-
-However, there is currently no widely accepted, objective framework for measuring gamesmanship, unsporting behaviour, or referee consistency.
-
-The Football Fair Play Index (FFPI) aims to create an open, transparent, and reproducible methodology for objectively measuring sporting behaviour in football.
+Football has developed sophisticated metrics for measuring performance, including expected goals (xG), passing networks and pressing intensity. However, there are relatively few objective measures of sporting behaviour itself. The Football Fair Play Index (FFPI) is an open-source initiative that aims to develop transparent, evidence-based metrics for sporting behaviour, gamesmanship and referee interaction.
 
 The project is independent of any club, national team, referee, league, or competition.
 
